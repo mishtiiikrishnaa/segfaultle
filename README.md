@@ -223,19 +223,6 @@ distributed under the MIT license. see `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- CONTACT -->
-## contact
-
-mishtiiikrishnaa - [@mishtiiikrishnaa](https://github.com/mishtiiikrishnaa)
-
-project link: [https://github.com/mishtiiikrishnaa/segfaultle](https://github.com/mishtiiikrishnaa/segfaultle)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## acknowledgments
 
