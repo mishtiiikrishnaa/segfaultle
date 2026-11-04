@@ -1,10 +1,12 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
+<div align="center">
 [![Stargazers][stars-shield]][stars-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+</div>
 
 <!-- PROJECT HEADER -->
 <br />
@@ -68,6 +70,8 @@
 **segfaultle** is my wordle clone, a project i made in my senior year of high school for my finals. i took inspiration from the famous new york times' wordle game, then took away the internet and added a lot of pastel.
 
 the name? it's wordle, but make it a segmentation fault. (python is far too polite to actually segfault.)
+
+in my first semester of college i came back to it, modified it, and took **third place at an expo**. 🥉
 
 here's what you get:
 
@@ -179,7 +183,7 @@ segfaultle/
 <!-- PROJECT STATUS -->
 ## project status
 
-**finished.** this was built as a high school finals project and it did its job, so there are no further updates planned.
+**finished.** this was built as a high school finals project, then modified in my first semester of college, where it won third place at an expo. it did its job twice over, so there are no further updates planned.
 
 what shipped:
 
